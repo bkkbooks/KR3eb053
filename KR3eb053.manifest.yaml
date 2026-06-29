@@ -1,0 +1,187 @@
+canonical_identifier: bkk:krp/KR3eb053/v1
+canonical_location: https://kanripo.org/bkk/KR3eb053/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 察舌辨症新法
+  identifiers:
+    krp: KR3eb053
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb053.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb053_000.yaml, hash: 'sha256:00c1875bebc7fe67702b3382baf3347536c64998a012db7e6903a381a0c68c6c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb053_000.markers.yaml, hash: 'sha256:dba2e0b54d3713d3f0c34b7e5132785d6d54f17a5bf088dced3d8c77f9440706'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 468
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 399
+  label: 舌苔原理
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d4.h1s1
+    span:
+    - body
+    - 399
+    - 553
+  label: 看舌八法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d5.h1s1
+    span:
+    - body
+    - 553
+    - 690
+  label: 黃苔類總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d6.h1s1
+    span:
+    - body
+    - 690
+    - 884
+  label: 白苔類總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d7.h1s1
+    span:
+    - body
+    - 884
+    - 1041
+  label: 舌質無苔類總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d8.h1s1
+    span:
+    - body
+    - 1041
+    - 1519
+  label: 黃苔類分別診斷法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d9.h1s1
+    span:
+    - body
+    - 1519
+    - 2077
+  label: 白苔類分別診斷法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d10.h1s1
+    span:
+    - body
+    - 2077
+    - 2406
+  label: 舌質無苔分別診斷法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d11.h1s1
+    span:
+    - body
+    - 2406
+    - 2609
+  label: 苔色變換吉凶總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d12.h1s1
+    span:
+    - body
+    - 2609
+    - 2762
+  label: 苔之真退假退駁去辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d13.h1s1
+    span:
+    - body
+    - 2762
+    - 2845
+  label: 燥潤辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d14.h1s1
+    span:
+    - body
+    - 2845
+    - 2930
+  label: 厚腐之苔無寒症辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d15.h1s1
+    span:
+    - body
+    - 2930
+    - 3077
+  label: 厚腐與厚膩不同辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d16.h1s1
+    span:
+    - body
+    - 3077
+    - 3146
+  label: 舌短舌強辨
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb053_jc_000-d17.h1s1
+    span:
+    - body
+    - 3146
+    - 3308
+  label: 補黑苔類
+  type: section
+  level: 1
+hash: sha256:48dc59771dcb9294974e9ab6f71d471b3f25ef1aafadaaadb0b922edaf21aced
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
