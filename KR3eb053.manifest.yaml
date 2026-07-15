@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb053/v1
 canonical_location: https://kanripo.org/bkk/KR3eb053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 察舌辨症新法
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb053_000.yaml, hash: 'sha256:234dd64e0bef9732ab103f0cfe69fd9089a9397450d26948f6f8aaf04b1e008b'}
+  - {seq: 0, filename: KR3eb053_000.yaml, hash: 'sha256:56d49ddb15037cf5259bc31b61af255af9004066d53d4e6d8e750c5703517544'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb053_000.markers.yaml, hash: 'sha256:843f9c91bbe2cdb1a23d5b19810e1412e1fbe10c0bdefe6c6d015f333a5fabe0'}
+  - {seq: 0, role: markers, filename: assets/KR3eb053_000.markers.yaml, hash: 'sha256:e4b98d9aaf07f3e8f348301a28a85b60357e393d0faddf52daf955312f6eb651'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,4 +181,7 @@ table_of_contents:
   label: 補黑苔類
   type: section
   level: 1
-hash: sha256:2e975d4668d28e3ddfc74bd5406007a8638b72f23cb0dcd6fc9acb5c3b1633be
+hash: sha256:199b0d572c1ee9b3089531e8d8cbfcb91d079137e452138188db3d451f0ae075
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
