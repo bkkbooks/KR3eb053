@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb053_000.yaml, hash: 'sha256:56d49ddb15037cf5259bc31b61af255af9004066d53d4e6d8e750c5703517544'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb053_000.markers.yaml, hash: 'sha256:e4b98d9aaf07f3e8f348301a28a85b60357e393d0faddf52daf955312f6eb651'}
+  - {seq: 0, role: markers, filename: assets/KR3eb053_000.markers.yaml, hash: 'sha256:73ddb342a2c3b62d3a70649c7abcc3ea7a529101ff83510a357ed9b305362f27'}
 table_of_contents:
 - ref:
     seq: 0
@@ -181,7 +181,7 @@ table_of_contents:
   label: 補黑苔類
   type: section
   level: 1
-hash: sha256:199b0d572c1ee9b3089531e8d8cbfcb91d079137e452138188db3d451f0ae075
+hash: sha256:e0825eb836928539e325c2245ec1290225acff749a591ce64daf8028c334b213
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
